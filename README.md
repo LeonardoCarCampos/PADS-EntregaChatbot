@@ -33,8 +33,8 @@ Este projeto traz um chatbot interativo desenvolvido em Python com interface via
 ### 1. Clone o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/chatbot-olist.git
-cd chatbot-olist
+git clone https://github.com/LeonardoCarCampos/PADS-EntregaChatbot.git
+cd PADS-EntregaChatbot
 ```
 
 ### 2. Instale os Pacotes Necessários
