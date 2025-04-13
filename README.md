@@ -38,8 +38,12 @@ cd PADS-EntregaChatbot
 ```
 
 ### 2. Instale os Pacotes Necessários
+Certifique-se de que você tenha o Python 3.9 ou superior instalado. Em seguida, instale as bibliotecas necessárias executando os seguintes comandos:
 ```bash
-pip install -r requirements.txt
+pip install pandas numpy datetime sentence-transformers textblob nltk matplotlib
+
+```bash
+pip install pandas numpy datetime sentence-transformers textblob nltk matplotlib
 ```
 #### 2.a Instale as bases de dados da olist pelo Kaggle:
 ```bash
