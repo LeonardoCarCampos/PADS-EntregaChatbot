@@ -41,6 +41,12 @@ cd PADS-EntregaChatbot
 ```bash
 pip install -r requirements.txt
 ```
+#### 2.a Instale as bases de dados da olist pelo Kaggle:
+```bash
+     1. Acesse: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+     2. Baixe os arquivos csvs.
+     3. No arquivo chatbot_produto_o, edite os caminhos dos arquivos no item  "10. Carregamento dos datasets da Olist".
+```
 ### 3. Inicie a interface:
 ```bash
 python shiny_bot.py
