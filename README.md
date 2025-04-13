@@ -43,9 +43,9 @@ pip install -r requirements.txt
 ```
 #### 2.a Instale as bases de dados da olist pelo Kaggle:
 ```bash
-     1. Acesse: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
-     2. Baixe os arquivos csvs.
-     3. No arquivo chatbot_produto_o, edite a variável 'path' no item  "10. Carregamento dos datasets da Olist".
+     1. Acesse o link do dataset oficial: Olist Brazilian E-Commerce (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+     2. Faça o download de todos os arquivos .csv disponíveis.
+     3. No arquivo chatbot_produto_v0.py, localize a seção "10. Carregamento dos datasets da Olist" e edite a variável path, inserindo o diretório onde os arquivos .csv foram salvos no seu computador.
 ```
 ### 3. Inicie a interface:
 ```bash
