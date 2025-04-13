@@ -153,3 +153,37 @@ A versão atual com suporte a CSV já representa a versão 2.0 do produto.
 ```bash
   Desenvolvido pelo Grupo 4.
   Projeto para o curso de Data Visualization - Insper, 2025
+
+### 10.📌 Notas Técnicas Complementares
+
+### 📋 Lista de Backlog (Entregas planejadas e realizadas)
+- [x] Criar chatbot com base em dados reais da Olist
+- [x] Implementar embeddings semânticos com SentenceTransformer
+- [x] Adicionar análise de sentimentos com TextBlob
+- [x] Desenvolver interface web com Shiny for Python
+- [x] Criar gráficos dinâmicos baseados em perguntas do usuário
+- [x] Registrar interações em log (log_chat.csv)
+- [x] Permitir execução local com instruções detalhadas
+- [x] Incluir resumo executivo com KPIs
+- [ ] Implementar exportação para PDF ou CSV
+- [ ] Adicionar campo de feedback do usuário
+- [ ] Gerar relatórios mensais automáticos
+- [ ] Integração futura com APIs externas
+
+### ⚙️ Metodologia Aplicada
+Adotamos a metodologia **Kanban**, organizando nossas tarefas em um quadro com as colunas:
+- **A Fazer**
+- **Em Andamento**
+- **Concluído**
+
+Essa abordagem nos permitiu visualizar claramente o progresso de cada funcionalidade e manter entregas contínuas ao longo do projeto.
+
+### 👥 Perfil dos Participantes
+- **Helio** – Computação/tecnologia e Matemátca/Etatística - Desenvolvimento da interface em Shiny e integração com o frontend. Preparação da apresentação.
+- **Leonardo** – Computação/tecnologia e Matemátca/Etatística - Programação principal do chatbot, integração com modelos e análise de sentimento. Suporte na versão 2.0 da interface Shiny. Documentação, README. Preparação da apresentação.
+- **Nathan** – Computação/tecnologia e Matemátca/Etatística - Preparação da apresentação. Programação principal do chatbot.  
+- **João** – Área de especialidade sob estudo
+
+### 🔗 Link para o Projeto
+[https://github.com/LeonardoCarCampos/PADS-EntregaChatbot](https://github.com/LeonardoCarCampos/PADS-EntregaChatbot)
+
