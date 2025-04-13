@@ -153,7 +153,7 @@ A versão atual com suporte a CSV já representa a versão 2.0 do produto.
 ```bash
   Desenvolvido pelo Grupo 4.
   Projeto para o curso de Data Visualization - Insper, 2025
-
+```
 ### 10.📌 Notas Técnicas Complementares
 
 ### 📋 Lista de Backlog (Entregas planejadas e realizadas)
