@@ -1,7 +1,7 @@
 # PADS-EntregaChatbot
 # 🤖 Chatbot Inteligente com Shiny e Dados de E-commerce
 
-Este projeto traz um chatbot interativo desenvolvido em Python com interface via [Shiny for Python](https://shiny.posit.co/py/), conectado a um modelo de linguagem e dados reais da Olist. A solução é pensada para lojistas e empreendedores que desejam gerar **insights práticos** a partir de dados de vendas e avaliações de clientes.
+Este projeto traz um chatbot interativo desenvolvido em Python com interface via [Shiny for Python](https://shiny.posit.co/py/), conectado a um modelo de linguagem e dados reais da Olist. A solução [...]
 
 ---
 
@@ -30,19 +30,21 @@ Este projeto traz um chatbot interativo desenvolvido em Python com interface via
 
 ## 🚀 Como Executar o Projeto
 
-### 1. Clone o repositório:
+### 1. Clone o Repositório
 
 ```bash
 git clone https://github.com/seu-usuario/chatbot-olist.git
 cd chatbot-olist
+```
 
-### 2. Instale os pacotes necessários:
+### 2. Instale os Pacotes Necessários
 ```bash
 pip install -r requirements.txt
-
+```
 ### 3. Inicie a interface::
 ```bash
 python shiny_bot.py
+```
 ### 4. 💬 Exemplos de Perguntas
 ```bash
   Você pode fazer perguntas como:
@@ -60,6 +62,7 @@ python shiny_bot.py
   Quais são os principais problemas relatados?
 
   Produtos que mais geraram receita?
+```
 
 ### 5. 📊 Gráficos Disponíveis:
 ```bash
@@ -74,6 +77,7 @@ python shiny_bot.py
   Preço médio dos mais vendidos
 
   Produtos com maior faturamento
+```
 
 ### 6. 🧠 Como o Chatbot Entende as Perguntas?
 ```bash
@@ -84,6 +88,7 @@ python shiny_bot.py
   Consulta comentários reais de clientes e retorna respostas relevantes
 
   Avalia o sentimento do texto com TextBlob
+```
 
 ### 7. 🔁 Histórico de Interações
 ```bash
@@ -96,6 +101,7 @@ python shiny_bot.py
   Pergunta
 
   Resposta gerada
+```
 
 ### 8. 🔧 Requisitos Técnicos
 ```bash
@@ -116,6 +122,7 @@ python shiny_bot.py
   nltk
 
   shiny
+```
 
 ### 9. 📌 Próximos Passos (versão futura)
 ```bash
@@ -130,7 +137,7 @@ python shiny_bot.py
   Integração com APIs externas
 
 A versão atual com suporte a CSV já representa a versão 2.0 do produto.
-
+```
 
 ###👤 Autor
 ```bash
