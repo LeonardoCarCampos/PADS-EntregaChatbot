@@ -37,12 +37,15 @@ git clone https://github.com/seu-usuario/chatbot-olist.git
 cd chatbot-olist
 
 ### 2. Instale os pacotes necessários:
-```pip install -r requirements.txt
+```bash
+pip install -r requirements.txt
 
 ### 3. Inicie a interface::
-```python shiny_bot.py
+```bash
+python shiny_bot.py
 ### 4. 💬 Exemplos de Perguntas
-```Você pode fazer perguntas como:
+```bash
+  Você pode fazer perguntas como:
 
   Quais os produtos mais vendidos?
 
@@ -59,7 +62,8 @@ cd chatbot-olist
   Produtos que mais geraram receita?
 
 ### 5. 📊 Gráficos Disponíveis:
-```Top 10 produtos mais vendidos
+```bash
+  Top 10 produtos mais vendidos
 
   Evolução de vendas mensais
 
@@ -72,7 +76,8 @@ cd chatbot-olist
   Produtos com maior faturamento
 
 ### 6. 🧠 Como o Chatbot Entende as Perguntas?
-```Combina regras por palavra-chave com busca semântica
+```bash
+  Combina regras por palavra-chave com busca semântica
 
   Usa SentenceTransformer para entender a intenção por similaridade de significado
 
@@ -81,7 +86,8 @@ cd chatbot-olist
   Avalia o sentimento do texto com TextBlob
 
 ### 7. 🔁 Histórico de Interações
-```Todas as perguntas e respostas são armazenadas automaticamente no arquivo log_chat.csv, com:
+```bash
+  Todas as perguntas e respostas são armazenadas automaticamente no arquivo log_chat.csv, com:
 
   Timestamp
 
@@ -92,7 +98,8 @@ cd chatbot-olist
   Resposta gerada
 
 ### 8. 🔧 Requisitos Técnicos
-```Python 3.9 ou superior
+```bash
+  Python 3.9 ou superior
 
   Bibliotecas utilizadas:
 
@@ -111,7 +118,8 @@ cd chatbot-olist
   shiny
 
 ### 9. 📌 Próximos Passos (versão futura)
-```Possibilidade de o usuário importar seus próprios dados (CSV)
+```bash
+  Possibilidade de o usuário importar seus próprios dados (CSV)
 
   Geração automática de relatório em PDF ou CSV
 
@@ -125,5 +133,6 @@ A versão atual com suporte a CSV já representa a versão 2.0 do produto.
 
 
 ###👤 Autor
-```Desenvolvido pelo Grupo 4.
-Projeto para o curso de Data Visualization - Insper, 2025
+```bash
+  Desenvolvido pelo Grupo 4.
+  Projeto para o curso de Data Visualization - Insper, 2025
