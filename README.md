@@ -41,11 +41,11 @@ cd PADS-EntregaChatbot
 ```bash
 pip install -r requirements.txt
 ```
-### 3. Inicie a interface::
+### 3. Inicie a interface:
 ```bash
 python shiny_bot.py
 ```
-### 4. 💬 Exemplos de Perguntas
+#### 3.a 💬 Exemplos de Perguntas
 ```bash
   1. Você pode fazer perguntas como:
 
@@ -64,7 +64,7 @@ python shiny_bot.py
   8. Produtos que mais geraram receita?
 ```
 
-### 5. 📊 Gráficos Disponíveis:
+### 4. 📊 Gráficos Disponíveis:
 ```bash
   1. Top 10 produtos mais vendidos
 
@@ -79,7 +79,7 @@ python shiny_bot.py
   6. Produtos com maior faturamento
 ```
 
-### 6. 🧠 Como o Chatbot Entende as Perguntas?
+### 5. 🧠 Como o Chatbot Entende as Perguntas?
 ```bash
   1. Combina regras por palavra-chave com busca semântica
 
@@ -90,7 +90,7 @@ python shiny_bot.py
   4. Avalia o sentimento do texto com TextBlob
 ```
 
-### 7. 🔁 Histórico de Interações
+### 6. 🔁 Histórico de Interações
 ```bash
   Todas as perguntas e respostas são armazenadas automaticamente no arquivo log_chat.csv, com:
 
@@ -103,7 +103,7 @@ python shiny_bot.py
   - Resposta gerada
 ```
 
-### 8. 🔧 Requisitos Técnicos
+### 7. 🔧 Requisitos Técnicos
 ```bash
   Python 3.9 ou superior
 
@@ -124,7 +124,7 @@ python shiny_bot.py
   - shiny
 ```
 
-### 9. 📌 Próximos Passos (versão futura)
+### 8. 📌 Próximos Passos (versão futura)
 ```bash
   1. Possibilidade de o usuário importar seus próprios dados (CSV)
 
@@ -139,7 +139,7 @@ python shiny_bot.py
 A versão atual com suporte a CSV já representa a versão 2.0 do produto.
 ```
 
-###👤 Autor
+### 9.👤 Autor
 ```bash
   Desenvolvido pelo Grupo 4.
   Projeto para o curso de Data Visualization - Insper, 2025
