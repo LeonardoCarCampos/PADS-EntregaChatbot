@@ -1,7 +1,7 @@
 # ========== shiny_bot.py ==========
 
 from shiny import App, ui, reactive, render
-from chatbot_helio import (
+from chatbot_produto_v0 import (
     responder,
     plot_mais_vendidos,
     plot_vendas_mensais,
