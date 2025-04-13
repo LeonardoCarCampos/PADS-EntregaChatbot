@@ -47,60 +47,60 @@ python shiny_bot.py
 ```
 ### 4. 💬 Exemplos de Perguntas
 ```bash
-  Você pode fazer perguntas como:
+  1. Você pode fazer perguntas como:
 
-  Quais os produtos mais vendidos?
+  2. Quais os produtos mais vendidos?
 
-  Mostre a evolução de vendas por mês
+  3. Mostre a evolução de vendas por mês
 
-  Qual é a nota média?
+  4. Qual é a nota média?
 
-  Me mostre os produtos com maiores preços
+  5. Me mostre os produtos com maiores preços
 
-  Como os clientes estão avaliando os produtos?
+  6. Como os clientes estão avaliando os produtos?
 
-  Quais são os principais problemas relatados?
+  7. Quais são os principais problemas relatados?
 
-  Produtos que mais geraram receita?
+  8. Produtos que mais geraram receita?
 ```
 
 ### 5. 📊 Gráficos Disponíveis:
 ```bash
-  Top 10 produtos mais vendidos
+  1. Top 10 produtos mais vendidos
 
-  Evolução de vendas mensais
+  2. Evolução de vendas mensais
 
-  Distribuição de notas dos clientes
+  3. Distribuição de notas dos clientes
 
-  Produtos com maiores preços
+  4. Produtos com maiores preços
 
-  Preço médio dos mais vendidos
+  5. Preço médio dos mais vendidos
 
-  Produtos com maior faturamento
+  6. Produtos com maior faturamento
 ```
 
 ### 6. 🧠 Como o Chatbot Entende as Perguntas?
 ```bash
-  Combina regras por palavra-chave com busca semântica
+  1. Combina regras por palavra-chave com busca semântica
 
-  Usa SentenceTransformer para entender a intenção por similaridade de significado
+  2. Usa SentenceTransformer para entender a intenção por similaridade de significado
 
-  Consulta comentários reais de clientes e retorna respostas relevantes
+  3. Consulta comentários reais de clientes e retorna respostas relevantes
 
-  Avalia o sentimento do texto com TextBlob
+  4. Avalia o sentimento do texto com TextBlob
 ```
 
 ### 7. 🔁 Histórico de Interações
 ```bash
   Todas as perguntas e respostas são armazenadas automaticamente no arquivo log_chat.csv, com:
 
-  Timestamp
+  - Timestamp
 
-  ID do usuário
+  - ID do usuário
 
-  Pergunta
+  - Pergunta
 
-  Resposta gerada
+  - Resposta gerada
 ```
 
 ### 8. 🔧 Requisitos Técnicos
@@ -109,32 +109,32 @@ python shiny_bot.py
 
   Bibliotecas utilizadas:
 
-  pandas
+  - pandas
 
-  numpy
+  - numpy
 
-  sentence-transformers
+  - sentence-transformers
 
-  textblob
+  - textblob
 
-  matplotlib
+  - matplotlib
 
-  nltk
+  - nltk
 
-  shiny
+  - shiny
 ```
 
 ### 9. 📌 Próximos Passos (versão futura)
 ```bash
-  Possibilidade de o usuário importar seus próprios dados (CSV)
+  1. Possibilidade de o usuário importar seus próprios dados (CSV)
 
-  Geração automática de relatório em PDF ou CSV
+  2. Geração automática de relatório em PDF ou CSV
 
-  Campo para avaliação (feedback) da resposta
+  3. Campo para avaliação (feedback) da resposta
 
-  Resumo mensal de KPIs para tomada de decisão
+  4. Resumo mensal de KPIs para tomada de decisão
 
-  Integração com APIs externas
+  5. Integração com APIs externas
 
 A versão atual com suporte a CSV já representa a versão 2.0 do produto.
 ```
