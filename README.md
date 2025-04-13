@@ -37,12 +37,12 @@ git clone https://github.com/seu-usuario/chatbot-olist.git
 cd chatbot-olist
 
 ### 2. Instale os pacotes necessários:
-pip install -r requirements.txt
+```pip install -r requirements.txt
 
 ### 3. Inicie a interface::
-python shiny_bot.py
+```python shiny_bot.py
 ### 4. 💬 Exemplos de Perguntas
-  Você pode fazer perguntas como:
+```Você pode fazer perguntas como:
 
   Quais os produtos mais vendidos?
 
@@ -59,7 +59,7 @@ python shiny_bot.py
   Produtos que mais geraram receita?
 
 ### 5. 📊 Gráficos Disponíveis:
-  Top 10 produtos mais vendidos
+```Top 10 produtos mais vendidos
 
   Evolução de vendas mensais
 
@@ -72,7 +72,7 @@ python shiny_bot.py
   Produtos com maior faturamento
 
 ### 6. 🧠 Como o Chatbot Entende as Perguntas?
-  Combina regras por palavra-chave com busca semântica
+```Combina regras por palavra-chave com busca semântica
 
   Usa SentenceTransformer para entender a intenção por similaridade de significado
 
@@ -81,7 +81,7 @@ python shiny_bot.py
   Avalia o sentimento do texto com TextBlob
 
 ### 7. 🔁 Histórico de Interações
-  Todas as perguntas e respostas são armazenadas automaticamente no arquivo log_chat.csv, com:
+```Todas as perguntas e respostas são armazenadas automaticamente no arquivo log_chat.csv, com:
 
   Timestamp
 
@@ -92,7 +92,7 @@ python shiny_bot.py
   Resposta gerada
 
 ### 8. 🔧 Requisitos Técnicos
-  Python 3.9 ou superior
+```Python 3.9 ou superior
 
   Bibliotecas utilizadas:
 
@@ -111,7 +111,7 @@ python shiny_bot.py
   shiny
 
 ### 9. 📌 Próximos Passos (versão futura)
-  Possibilidade de o usuário importar seus próprios dados (CSV)
+```Possibilidade de o usuário importar seus próprios dados (CSV)
 
   Geração automática de relatório em PDF ou CSV
 
@@ -124,6 +124,6 @@ python shiny_bot.py
 A versão atual com suporte a CSV já representa a versão 2.0 do produto.
 
 
-👤 Autor
-Desenvolvido pelo Grupo 4.
+###👤 Autor
+```Desenvolvido pelo Grupo 4.
 Projeto para o curso de Data Visualization - Insper, 2025
