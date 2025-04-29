@@ -178,11 +178,6 @@ Adotamos a metodologia **Kanban**, organizando nossas tarefas em um quadro com a
 
 Essa abordagem nos permitiu visualizar claramente o progresso de cada funcionalidade e manter entregas contínuas ao longo do projeto.
 
-### 👥 Perfil dos Participantes
-- **Helio** – Computação/tecnologia e Matemátca/Etatística - Desenvolvimento da interface em Shiny e integração com o frontend. Preparação da apresentação.
-- **Leonardo** – Computação/tecnologia e Matemátca/Etatística - Programação principal do chatbot, integração com modelos e análise de sentimento. Suporte na versão 2.0 da interface Shiny. Documentação, README. Preparação da apresentação.
-- **Nathan** – Computação/tecnologia e Matemátca/Etatística - Preparação da apresentação. Programação principal do chatbot.  
-- **João** – Área de especialidade sob estudo
 
 ### 🔗 Link para o Projeto
 [https://github.com/LeonardoCarCampos/PADS-EntregaChatbot](https://github.com/LeonardoCarCampos/PADS-EntregaChatbot)
